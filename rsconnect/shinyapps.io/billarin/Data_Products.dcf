@@ -1,0 +1,13 @@
+name: Data_Products
+title: Data_Products
+username:
+account: billarin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 327584
+bundleId: 1331362
+url: https://billarin.shinyapps.io/Data_Products/
+when: 1524354619.96079
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: NYC_LaGuardiaAirport_TemperaturePredictor_UserGuide_V1.0.pdf

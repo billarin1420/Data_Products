@@ -22,7 +22,7 @@ shinyUI(
        sliderInput("Oz", "What is the expected Ozone Level (parts per billion)", 1, 170, value=100),
        sliderInput("Solar_Rad", "What is the expected Solar Radiation Level (langleys)", 5, 350, value=170),
        sliderInput("Av_Wind_Speed", "What is the average Wind Speed (miles per hour)", 1, 20, value=10),
-       numericInput("Mon","Month(1, 2,...12)",value=5, min=5,max=9),
+       numericInput("Mon","Month(5,6,7,8,9)",value=7, min=5,max=9),
        submitButton("Submit")
     ),
     mainPanel (
